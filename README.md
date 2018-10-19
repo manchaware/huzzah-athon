@@ -14,6 +14,7 @@ Download `VCP` from [Silabs](https://www.silabs.com/products/development-tools/s
 https://github.com/espressif/arduino-esp32/blob/master/docs/arduino-ide/boards_manager.md
 
 **NeoTrellis Libraries**  
+Install the [Seesaw Library])(https://learn.adafruit.com/adafruit-seesaw-atsamd09-breakout/arduino-wiring-test#download-adafruit-seesaw-library-3-3) and unzip it in your Arduino Libraries directory (normally `Documents\Arduino\libraries`)
 https://learn.adafruit.com/adafruit-neotrellis/arduino-code
 
 ## Test your EPS32 internet connection
