@@ -21,11 +21,14 @@ Clone this repo into your Arduino project directory (most likely `/Documents/Ard
 
 Open `WiFiTest.ino`
 
+From the `Tools > Board:` menu, select `Adafruit ESP32 Feather`
+
 Connect your HUZZAH32 via USB and make sure it's selected by choosing `/dev/cu.SLAB_USBtoUART` from `Tools > Port:` menu
 
 Upload your sketch by hitting the right-facing arrow (or `CMD+U`)
 
-Open your serial monitor by hitting the magnifying glass on the far right (or `SHIFT+CMD+M`)
+Open your serial monitor by hitting the magnifying glass on the far right (or `SHIFT+CMD+M`). (You may have to set your Baud rate to `115200` in the serial monitor)
+
 
 You should see:
 ```
