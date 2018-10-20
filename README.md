@@ -65,11 +65,11 @@ https://learn.adafruit.com/adafruit-huzzah32-esp32-feather/pinouts
 
 Using the JST to Header cable, connect the following pins:  
 ```
-Feather    NeoTrellis
--------    ----------
+NeoTrellis    Feather
+----------    -------
     SCL -> SCL 
     SDA -> SDA 
-     3V -> Vin
+    VIN -> 3V
     GND -> GND
 ```
 
